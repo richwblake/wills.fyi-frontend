@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background: #003554;
+    font-family: Arial, sans-serif;
+}
+
+#main-content {
+    margin: 15px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #051923;
+    color: white;
+}
+
+.logo-link {
+    font-family: 'Courier New', monospace;
+}
+
+.nb-link {
+    margin: 8px;
+    color: #00A6FB;
+    text-decoration: none;
+}
+
+.nb-link:hover {
+    text-decoration: underline;
+}
